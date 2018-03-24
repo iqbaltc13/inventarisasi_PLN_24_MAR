@@ -1,0 +1,1 @@
+<h1>Token Anda adalah <strong> {{ $token }}</strong></h1>

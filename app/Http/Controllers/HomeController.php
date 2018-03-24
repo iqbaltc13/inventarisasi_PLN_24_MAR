@@ -26,4 +26,11 @@ class HomeController extends Controller
     {
         return view('home');
     }
+	 public function barcode($id)
+	{
+		return view('home');
+	}
+	public function search(){
+		
+	}
 }
